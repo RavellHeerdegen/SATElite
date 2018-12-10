@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: NNsInSWT.aux
+The style file: splncs04.bst
+A level-1 auxiliary file: Kapitel/Deckblatt/deckblatt.aux
+A level-1 auxiliary file: Kapitel/Abstract/abstract.aux
+Database file #1: patternrecognitionReferences.bib
+Database file #2: costEffortReferences.bib
+Database file #3: references.bib
+Warning--missing publisher in MFCC
+Warning--missing publisher in Franz2015
+Warning--there's a number but no volume in Majma2014
+You've used 32 entries,
+            2850 wiz_defined-function locations,
+            846 strings with 12476 characters,
+and the built_in function-call counts, 15662 in all, are:
+= -- 1302
+> -- 296
+< -- 41
++ -- 120
+- -- 88
+* -- 920
+:= -- 1752
+add.period$ -- 64
+call.type$ -- 32
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 1628
+empty$ -- 1574
+format.name$ -- 112
+if$ -- 3637
+int.to.chr$ -- 0
+int.to.str$ -- 32
+missing$ -- 323
+newline$ -- 102
+num.names$ -- 32
+pop$ -- 516
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 473
+stack$ -- 0
+substring$ -- 985
+swap$ -- 955
+text.length$ -- 41
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 140
+width$ -- 34
+write$ -- 382
+(There were 3 warnings)

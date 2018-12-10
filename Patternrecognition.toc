@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Artificial neural networks}{3}
+\contentsline {section}{\numberline {2}Convolutional neural networks}{3}
+\contentsline {section}{\numberline {3}Residual neural networks}{3}
+\contentsline {section}{\numberline {4}Back propagation}{4}
+\contentsline {section}{\numberline {5}Hidden Markov Model}{4}
+\contentsline {section}{\numberline {6}Pattern recognition}{4}
+\contentsline {subsection}{\numberline {6.1}Speech recognition}{6}
+\contentsline {subsubsection}{\numberline {6.1.1}Speech recognition und convolutional neural networks}{6}
+\contentsline {subsubsection}{\numberline {6.1.2}Speech recognition und residual neural networks}{7}
+\contentsline {subsection}{\numberline {6.2}Emotion recognition}{8}
+\contentsline {subsubsection}{\numberline {6.2.1}Emotion recognition und convolutional neural networks}{8}
+\contentsline {subsection}{\numberline {6.3}Fazit}{10}
+\contentsline {section}{\numberline {7}Cost und effort estimation}{11}
+\contentsline {subsection}{\numberline {7.1}Stand der Technik}{11}
+\contentsline {subsection}{\numberline {7.2}COCOMO}{12}
+\contentsline {subsection}{\numberline {7.3}Soft Computing Ans\IeC {\"a}tze}{13}
+\contentsline {subsection}{\numberline {7.4}Leistungsbeurteilung}{13}
+\contentsline {subsection}{\numberline {7.5}Vergleich}{13}
+\contentsline {subsection}{\numberline {7.6}Fazit}{14}

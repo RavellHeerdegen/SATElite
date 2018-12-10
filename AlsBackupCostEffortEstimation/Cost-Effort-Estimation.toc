@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Einleitung}{2}{section.1}
+\contentsline {section}{\numberline {2}Stand der Technik}{2}{section.2}
+\contentsline {section}{\numberline {3}COCOMO}{3}{section.3}
+\contentsline {section}{\numberline {4}Soft Computing Ans\IeC {\"a}tze}{4}{section.4}
+\contentsline {section}{\numberline {5}Leistungsbeurteilung}{4}{section.5}
+\contentsline {section}{\numberline {6}Vergleich}{5}{section.6}
+\contentsline {section}{\numberline {7}Fazit}{5}{section.7}

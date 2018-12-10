@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Patternrecognition.aux
+The style file: splncs04.bst
+A level-1 auxiliary file: Kapitel/Deckblatt/deckblatt.aux
+A level-1 auxiliary file: Kapitel/Abstract/abstract.aux
+A level-1 auxiliary file: Kapitel/Definitions/Definitions.aux
+A level-1 auxiliary file: Kapitel/SpeechRecognition/speechrecognition.aux
+A level-1 auxiliary file: Kapitel/EmotionRecognition/emotionrecognition.aux
+A level-1 auxiliary file: Kapitel/Resumee/conclusion.aux
+A level-1 auxiliary file: Kapitel/costEffortEstimation/costEffortEstimationSections.aux
+Database file #1: References.bib
+Database file #2: costEffortReferences.bib
+You've used 25 entries,
+            2850 wiz_defined-function locations,
+            804 strings with 11729 characters,
+and the built_in function-call counts, 12920 in all, are:
+= -- 1087
+> -- 247
+< -- 37
++ -- 99
+- -- 74
+* -- 786
+:= -- 1437
+add.period$ -- 51
+call.type$ -- 25
+change.case$ -- 31
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 1331
+empty$ -- 1264
+format.name$ -- 94
+if$ -- 2996
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 262
+newline$ -- 81
+num.names$ -- 25
+pop$ -- 394
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 397
+stack$ -- 0
+substring$ -- 849
+swap$ -- 811
+text.length$ -- 37
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 117
+width$ -- 27
+write$ -- 310

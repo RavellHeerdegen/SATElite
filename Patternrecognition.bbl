@@ -1,0 +1,155 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{technology}
+Meng, J., Zhang, J., Zhao, H.: {Overview of the speech recognition technology}.
+  Proceedings - 4th International Conference on Computational and Information
+  Sciences, ICCIS 2012 pp. 199--202 (2012). \doi{10.1109/ICCIS.2012.202}
+
+\bibitem{facialemotionrecusingcnn}
+Awasthi, A.: {Facial Emotion Recognition Using Deep Learning}. IEEE 4th
+  International Conference on Knowledge-Based Engineering and Innovation (KBEI)
+  Dec. 22, 2017  \textbf{1}(September),  9--12 (2013).
+  \doi{10.1145/2818346.2830593}
+
+\bibitem{usingcnn}
+Guiming, D., Xia, W., Guangyan, W., Yan, Z., Dan, L.: {Speech recognition based
+  on convolutional neural networks}. 2016 IEEE International Conference on
+  Signal and Image Processing, ICSIP 2016 pp. 708--711 (2017).
+  \doi{10.1109/SIPROCESS.2016.7888355}
+
+\bibitem{residualnn}
+Vydana, H.K., Vuppala, A.K.: {Residual neural networks for speech recognition}.
+  25th European Signal Processing Conference, EUSIPCO 2017
+  \textbf{2017-Janua},  543--547 (2017). \doi{10.23919/EUSIPCO.2017.8081266}
+
+\bibitem{hmm}
+Tang, X.: {Hybrid hidden markov model and artificial neural network for
+  automatic speech recognition}. Proceedings of the 2009 Pacific-Asia
+  Conference on Circuits, Communications and System, PACCS 2009 pp. 682--685
+  (2009). \doi{10.1109/PACCS.2009.138}
+
+\bibitem{patternrec}
+A.{\~{}}K.{\~{}}Jain, R.{\~{}}P.{\~{}}W.{\~{}}Duin, J.{\~{}}Mao:
+  {{\{}S{\}}tatistical {\{}P{\}}attern {\{}R{\}}ecognition: {\{}A{\}}
+  {\{}R{\}}eview}. IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE
+  INTELLIGENCE, VOL. 22, NO. 1, JANUARY 2000  \textbf{22}(1),  4--37 (2000)
+
+\bibitem{noisycnn}
+Santos, R.M., Matos, L.N., Macedo, H.T., Montalvao, J.: {Speech recognition in
+  noisy environments with convolutional neural networks}. Proceedings - 2015
+  Brazilian Conference on Intelligent Systems, BRACIS 2015 pp. 175--179 (2016).
+  \doi{10.1109/BRACIS.2015.44}
+
+\bibitem{svmgmm}
+Padmanabhan, J., Premkumar, M.J.J.: {Machine learning in automatic speech
+  recognition: A survey}. IETE Technical Review (Institution of Electronics and
+  Telecommunication Engineers, India)  \textbf{32}(4),  240--251 (2015).
+  \doi{10.1080/02564602.2015.1010611},
+  \url{http://dx.doi.org/10.1080/02564602.2015.1010611}
+
+\bibitem{eyetrackemotionrec}
+Aracena, C., Basterrech, S., Snasel, V., Velasquez, J.: {Neural Networks for
+  Emotion Recognition Based on Eye Tracking Data}. Proceedings - 2015 IEEE
+  International Conference on Systems, Man, and Cybernetics, SMC 2015 pp.
+  2632--2637 (2016). \doi{10.1109/SMC.2015.460}
+
+\bibitem{wildemotionrec}
+Surace, L., Patacchiola, M., S{\"{o}}nmez, E.B., Spataro, W., Cangelosi, A.:
+  {Emotion Recognition in the Wild using Deep Neural Networks and Bayesian
+  Classifiers}. Proceeding ICMI 2017 Proceedings of the 19th ACM International
+  Conference on Multimodal Interaction Pages 593-597 pp. 593--597 (2017).
+  \doi{10.1145/3136755.3143015}, \url{http://arxiv.org/abs/1709.03820}
+
+\bibitem{cnnemotionrec}
+Huang, C.: {Combining convolutional neural networks for emotion recognition}.
+  2017 IEEE MIT Undergraduate Research Technology Conference, URTC 2017
+  \textbf{2018-Janua}, ~1--4 (2018). \doi{10.1109/URTC.2017.8284175}
+
+\bibitem{Bajta2018}
+Bajta, M.E., Idri, A., Ros, J.N., Fernandez-Aleman, J.L., Gea, J.M.C.D.,
+  Garcıa, F., Toval, A.: {Software project management approaches for global
+  software development: a systematic mapping study}. Tsinghua Science and
+  Technology  \textbf{23}(6),  690--714 (2018). \doi{10.26599/TST.2018.9010029}
+
+\bibitem{Matson1994}
+Matson, J.E., Barrett, B.E., Mellichamp, J.M.: {Software development cost
+  estimation using function points}. IEEE Transactions on Software Engineering
+  \textbf{20}(4),  275--287 (1994). \doi{10.1109/32.277575}
+
+\bibitem{Bilgaiyan2016}
+Bilgaiyan, S., Mishra, S., Das, M.: {A Review of Software Cost Estimation in
+  Agile Software Development Using Soft Computing Techniques}. In: 2016 2nd
+  International Conference on Computational Intelligence and Networks (CINE),
+  Computational Intelligence and Networks (CINE), 2016 2nd International
+  Conference on, cine. p.~112. IEEE (2016). \doi{10.1109/CINE.2016.27},
+  \url{http://search.ebscohost.com/login.aspx?direct=true{\&}db=edseee{\&}AN=edseee.7556814{\&}lang=de{\&}site=eds-live{\&}authtype=shib}
+
+\bibitem{Jeffery1990}
+Jeffery, D.R., Low, G.: {Calibrating estimation tools for software
+  development}. Software Engineering Journal  \textbf{5}(4),  215--221 (1990).
+  \doi{10.1049/sej.1990.0024}
+
+\bibitem{Heemstra1992}
+Heemstra, F.J.: {Software Cost Estimation}. Handbook of Software Engineering,
+  Hong Kong Polytechnic University  \textbf{34}(10) (1992).
+  \doi{10.1142/9789812389701_0014},
+  \url{https://www.st.cs.uni-saarland.de/edu/empirical-se/2006/PDFs/leung.pdf}
+
+\bibitem{Huang2007}
+Huang, X., Ho, D., Ren, J., Capretz, L.F.: {Improving the COCOMO model using a
+  neuro-fuzzy approach}. Applied Soft Computing  \textbf{7}(1),  29--40 (jan
+  2007). \doi{10.1016/J.ASOC.2005.06.007},
+  \url{https://www.sciencedirect.com/science/article/pii/S1568494605000712}
+
+\bibitem{Huang2006}
+Huang, S.J., Lin, C.Y., Chiu, N.H.: {Fuzzy decision tree approach for embedding
+  risk assessment information into software cost estimation model}. Journal of
+  Information Science and Engineering  \textbf{22}(2),  297--313 (2006)
+
+\bibitem{Jain2016}
+Jain, R., Sharma, V.K., Hiranwal, S.: {Reduce mean magnitude relative error in
+  software cost estimation by HOD-COCOMO algorithm}. In: 2016 International
+  Conference on Control, Instrumentation, Communication and Computational
+  Technologies (ICCICCT). pp. 708--712 (2016).
+  \doi{10.1109/ICCICCT.2016.7988044}
+
+\bibitem{Chen2005}
+Chen, Z., Menzies, T., Port, D., Boehm, B.: {Feature subset selection can
+  improve software cost estimation accuracy}. ACM SIGSOFT Software Engineering
+  Notes  \textbf{30}(4), ~1 (2005). \doi{10.1145/1082983.1083171},
+  \url{http://portal.acm.org/citation.cfm?doid=1082983.1083171}
+
+\bibitem{Abrahamsson2007}
+Abrahamsson, P., Moser, R., Pedrycz, W., Sillitti, A., Succi, G.: {Effort
+  Prediction in Iterative Software Development Processes -- Incremental Versus
+  Global Prediction Models}. In: First International Symposium on Empirical
+  Software Engineering and Measurement (ESEM 2007). pp. 344--353 (2007).
+  \doi{10.1109/ESEM.2007.16},
+  \url{https://ieeexplore.ieee.org/document/4343762}
+
+\bibitem{Boetticher2001}
+Boetticher, G.D.: {Using Machine Learning to Predict Project Effort: Empirical
+  Case Studies in Data-Starved Domains}. Model Based Requirements Workshop pp.
+  17--24 (2001). \doi{10.1.1.19.111},
+  \url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.111{\&}rep=rep1{\&}type=pdf}
+
+\bibitem{Setyawati2002}
+Setyawati, B.R., Sahirman, S., Creese, R.C.: {Neural Networks for Cost
+  Estimation.} AACE International Transactions p.~13.1 (jun 2002),
+  \url{http://search.ebscohost.com/login.aspx?direct=true{\&}db=bth{\&}AN=7197172{\&}lang=de{\&}site=eds-live{\&}authtype=shib}
+
+\bibitem{Finnie1996}
+Finnie, G.R., Wittig, G.E.: {AI tools for software development effort
+  estimation}. Software Engineering: Education and Practice, 1996. Proceedings.
+  International Conference pp. 346--353 (1996). \doi{10.1109/SEEP.1996.534020},
+  \url{http://epublications.bond.edu.au/cgi/viewcontent.cgi?article=1006{\&}context=infotech{\_}pubs}
+
+\bibitem{Khalifelu2012}
+Khalifelu, Z.A., Gharehchopogh, F.S.: {Comparison and evaluation of data mining
+  techniques with algorithmic models in software cost estimation}. Procedia
+  Technology  \textbf{1},  65--71 (2012). \doi{10.1016/j.protcy.2012.02.013}
+
+\end{thebibliography}

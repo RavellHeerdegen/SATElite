@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Cost-Effort-Estimation.aux
+A level-1 auxiliary file: costEffortEstimationSections.aux
+The style file: spmpsci_noSort.bst.bst
+Database file #1: costEffortReferences.bib
+You've used 14 entries,
+            2946 wiz_defined-function locations,
+            723 strings with 8663 characters,
+and the built_in function-call counts, 10708 in all, are:
+= -- 1327
+> -- 143
+< -- 6
++ -- 112
+- -- 43
+* -- 424
+:= -- 895
+add.period$ -- 35
+call.type$ -- 14
+change.case$ -- 20
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 1328
+empty$ -- 700
+format.name$ -- 55
+if$ -- 2310
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 149
+newline$ -- 84
+num.names$ -- 14
+pop$ -- 425
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 677
+stack$ -- 0
+substring$ -- 500
+swap$ -- 1156
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 52
+width$ -- 16
+write$ -- 188

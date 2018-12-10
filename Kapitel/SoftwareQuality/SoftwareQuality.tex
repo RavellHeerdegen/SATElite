@@ -1,0 +1,32 @@
+\section{Software quality (Konstantin Rosenberg)}
+"Softwarequalität ist die Gesamtheit der Merkmale und Merkmalswerte eines Softwareprodukts, die sich auf dessen Eignung beziehen,
+festgelegte oder vorausgesetzte
+Erfordernisse zu erfüllen"~\cite[p.~20]{Franz2015}
+F. Klaus zitiert die Norm ISO/IEC 25000, dabei unterscheidet er zwischen funktionalen und nicht-funktionalen Merkmalen von Softwarequalität(SQ).
+Funktionale Merkmale beziehen sich auf die reine Funktionalität einer Software. Die nicht-funktionalen Anforderungen hingegen beschreiben die Zuverlässigkeit, Benutzbarkeit, Effizienz, Anpassungsfähigkeit und Übertragbarkeit eines Softwareprodukts.
+Um SQ zu erreichen gibt es verschiedene Ansätze. In Kontrast stehen dabei analytische (AQS) und konstruktive Qualitätssicherungs
+maßnahmen (KQS). AQS beziehen sich auf das Vermeiden von Fehlern im Vorfeld. KQS hingegen sollen nach Abschluss der Arbeit Fehler aufdecken.~\cite[p.~29]{Franz2015} 
+Um SQ konstruktiv zu sichern, schlägt F. Klaus das Einführen von Testmethoden, Testwerkzeugen und die Schulung der Mitarbeiter als Maßnahmen vor. Für eine analytische Sicherung der Qualität nennt er das Überprüfen von Tests und Dokumenten.
+Im Folgenden Abschnitt zeige ich Verfahren, um die genannten Maßnahmen mit NN's umzusetzen. Abschließend wird auf die Frage eingegangen, ob NN's zur Qualitätssicherung in Software verwendet werden können.
+
+\subsection{Automatisiertes Testen durch neural networks}
+Softwaretests haben die Aufgabe zu erkennen, ob Software den qualitativen Ansprüchen genügt und um Fehler zu finden und zu beheben. ~\cite{Wu2008}
+L. Wu beschreibt in ~\cite{Wu2008} ein Verfahren, um mit BPNN's automatisiert funktionale Tests zu erstellen. 
+Bei diesem Vorgehen gibt es eine Reihe an Akteuren. Ein bestehendes System oder Programm. Außerdem die Spezifikation der Funktionen, einen Testgenerator, eine Testdatenbank und das BPNN. Der Testgenerator erzeugt zufällige Input-Variablen, passend zu den festgelegten Systemspezifikationen. Die Variablen werden in der Testdatenbank abgespeichert. Das Softwaresystem erzeugt Erwartungswerte. Als Input für das BPNN dienen die erzeugten Testwerte. Das NN verarbeitet die Eingabewerte und generiert Ausgaben, die gegen den Erwartungswert geprüft werden.
+Mit diesem Training nähert sich das NN dem entsprechenden Erwartungswert an.
+Sobald die Ausgabewerte einen entsprechenden Toleranzwert erreichen, kann der Input der einzelnen Knoten des NN verwendet werden, um Tests abzuleiten. Der Vorgang wird wiederholt bis die Testabdeckung vollständig ist. Anhand eines Versuchs werden in~\cite{Wu2008} Tests für ein Softwaresystem erzeugt. Dabei wird eine vollständige Testabdeckung für ein Beispielsystem erzeugt.\\
+
+\noindent In ~\cite{Majma2014} beschreiben M. Negar und S. Morteza ebenfalls einen Versuch, der die Effektivität von NN's deutlich macht. In dem Versuch werden zwei NN's verwendet. Eines davon dient dem white box testing, das andere dem black box testing. Nach dem Training der NN's, wird mit dem ersten NN ein Programm mit 394 Zeilen Code getestet. Dabei wird eine vollständige Testabdeckung erzielt. Das zweite NN wird mit absichtlich gesetzten Fehlern getestet. Dabei erkannte das System in 92\% der Fälle, dass ein Fehler vorhanden ist. Mit diesem Vorgehen lassen sich nach ~\cite{Majma2014} haltbare Softwaretests produzieren, sowie Zeit und Aufwand einsparen.
+
+\subsection{Evaluation von Softwarequalität durch neural networks}
+Es bietet Vorteile den qualitativen Stand von Software zu kennen, um Vorbereitungen zu treffen oder früh Mängel aufzudecken und zu beheben ~\cite{Pomorova2013}, deshalb stellen O. Pomorova und T. Hovorushchenko in~\cite{Pomorova2013} eine Methode vor, um mit NN's die Softwarequalität in einer Projektphase zu evaluieren. Als Input für das NN dienen SM's. Davon enthält eine SM geschätzte, die andere die tatsächlichen Werte.
+Durch die Ausgabe des NN's wird die evaluierte Softwarequalität beschrieben oder eine Vorhersage über die zukünftige Komplexität des Projekts gemacht. 
+In ~\cite{Pomorova2013} wird ein Versuch beschrieben in dem vier verschiedene Softwareprojekte mit dieser Methode eingeschätzt wurden. Dabei erzielte das System genaue Ergebnisse. Es stellte sich jedoch auch heraus, dass eine unzulängliche Anzahl von Bewertungskriterien zu ungenauen Ergebnissen führen kann.
+Wenn die Faktoren gegeben sind, bietet dieses Verfahren aber eine genaue Möglichkeit um SQ erkennbar zu machen und dadurch Rückschlüsse auf die Entwicklungsphase zu ziehen.
+
+\subsection{Vorhersage von SQ durch neural networks}
+Durch eine Vorhersage der SQ können Defizite frühzeitig erkannt und verbessert werden. Mitarbeiter können sich besser auf bevorstehende Probleme vorbereiten und man erhält die Möglichkeit, Zusammenhänge zwischen getroffenen Entscheidungen und SQ zu erkennen ~\cite{Peng2009}. In ~\cite{Peng2009} wird deshalb ein Vorgehen beschrieben, um eine Vorhersage zu SQ in objektorientierten Systemen zu treffen. Dabei werden SQ's und NN's verwendet, um Vorhersagen zu machen. Bei den verwendeten Metriken handelt es sich um objekt orientierte Metriken wie die depth of the inheritance tree (DIT9)-Metrik. Die Metriken werden über ein sog. fuzzy neural network verarbeitet. fuzzy neural networks können auch mit wenig Input genaue Aussagen treffen.
+Vorteile dieser Variante zu herkömmlichen Ansätzen zum Vorhersagen von SQ werden in einem Beispiel in ~\cite{Peng2009} deutlich. Dabei zeigt sich, dass die Zusammenhänge zwischen SQ und beeinflussenden Faktoren deutlicher zu erkennen sind, als auch dass das Vorgehen mit einer Vielzahl an Dateiformaten auskommt.
+
+\subsection{Fazit}
+Betrachtet man die genannten Beispiele für Einsatzmöglichkeiten von NN's, stellt man fest, dass es Anwendungsfälle gibt in denen sich NN's als sehr geeignet und effizient erweisen. In diesem Abschnitt sehen wir wie Softwaretests automatisch generiert werden können, um Zeit und Arbeitsaufwand zu sparen. Darüber hinaus erkennen wir die Vorteile von NN's zur Vorhersage und Bestimmung von SQ. Gerade das Vorhersagen von SQ, um Rückschlüsse auf Ursachen ziehen zu können, bietet eine große Chance, um die Arbeit an Softwareprojekten nachhaltig zu prägen und zu verbessern. Darum kann bestätigt werden, dass NN's im Bereich der Softwareentwicklung eingesetzt werden können, um die Qualität zu verbessern.
