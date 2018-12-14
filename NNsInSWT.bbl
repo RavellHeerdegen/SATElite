@@ -6,7 +6,12 @@
 \bibitem{technology}
 Meng, J., Zhang, J., Zhao, H.: {Overview of the speech recognition technology}.
   Proceedings - 4th International Conference on Computational and Information
-  Sciences, ICCIS 2012 pp. 199--202 (2012). \doi{10.1109/ICCIS.2012.202}
+  Sciences, ICCIS 2012, pp. 199--202 (2012). \doi{10.1109/ICCIS.2012.202}
+
+\bibitem{residualnn}
+Vydana, H.K., Vuppala, A.K.: {Residual neural networks for speech recognition}.
+  25th European Signal Processing Conference, EUSIPCO 2017 pp. 543--547.
+  \doi{10.23919/EUSIPCO.2017.8081266}
 
 \bibitem{usingcnn}
 Guiming, D., Xia, W., Guangyan, W., Yan, Z., Dan, L.: {Speech recognition based
@@ -14,15 +19,16 @@ Guiming, D., Xia, W., Guangyan, W., Yan, Z., Dan, L.: {Speech recognition based
   Signal and Image Processing, ICSIP 2016 pp. 708--711 (2017).
   \doi{10.1109/SIPROCESS.2016.7888355}
 
-\bibitem{residualnn}
-Vydana, H.K., Vuppala, A.K.: {Residual neural networks for speech recognition}.
-  25th European Signal Processing Conference, EUSIPCO 2017
-  \textbf{2017-Janua},  543--547 (2017). \doi{10.23919/EUSIPCO.2017.8081266}
+\bibitem{noisycnn}
+Santos, R.M., Matos, L.N., Macedo, H.T., Montalvao, J.: {Speech recognition in
+  noisy environments with convolutional neural networks}. Proceedings - 2015
+  Brazilian Conference on Intelligent Systems, BRACIS 2015 pp. 175--179 (2016).
+  \doi{10.1109/BRACIS.2015.44}
 
 \bibitem{hmm}
 Tang, X.: {Hybrid hidden markov model and artificial neural network for
   automatic speech recognition}. Proceedings of the 2009 Pacific-Asia
-  Conference on Circuits, Communications and System, PACCS 2009 pp. 682--685
+  Conference on Circuits, Communications and System, PACCS 2009, pp. 682--685
   (2009). \doi{10.1109/PACCS.2009.138}
 
 \bibitem{Khalifelu2012}
@@ -31,27 +37,25 @@ Khalifelu, Z.A., Gharehchopogh, F.S.: {Comparison and evaluation of data mining
   Technology  \textbf{1},  65--71 (2012). \doi{10.1016/j.protcy.2012.02.013}
 
 \bibitem{svmgmm}
-Padmanabhan, J., Premkumar, M.J.J.: {Machine learning in automatic speech
-  recognition: A survey}. IETE Technical Review (Institution of Electronics and
-  Telecommunication Engineers, India)  \textbf{32}(4),  240--251 (2015).
-  \doi{10.1080/02564602.2015.1010611},
-  \url{http://dx.doi.org/10.1080/02564602.2015.1010611}
+Jayashree, P., Melvin~Jose, J., Premkumar: {Machine learning in automatic
+  speech recognition: A survey}. IETE Technical Review (Institution of
+  Electronics and Telecommunication Engineers, India)  \textbf{32}(4),
+  240--251 (2015). \doi{10.1080/02564602.2015.1010611}
 
 \bibitem{patternrec}
-A.{\~{}}K.{\~{}}Jain, R.{\~{}}P.{\~{}}W.{\~{}}Duin, J.{\~{}}Mao:
-  {{\{}S{\}}tatistical {\{}P{\}}attern {\{}R{\}}ecognition: {\{}A{\}}
-  {\{}R{\}}eview}. IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE
-  INTELLIGENCE, VOL. 22, NO. 1, JANUARY 2000  \textbf{22}(1),  4--37 (2000)
+{A. K. Jain}, {Robert P. W. Duin}, {J. Mao}: {Statistical Pattern Recognition:
+  A Review}. IEEE Transactions on Pattern Analysis And Machine Intelligence,
+  Vol. 22, No. 1, January 2000  \textbf{22}(1),  4--37 (2000)
+
+\bibitem{facialemotionrecusingcnn}
+Awasthi, A.: {Facial Emotion Recognition Using Deep Learning}. IEEE 4th
+  International Conference on Knowledge-Based Engineering and Innovation (KBEI)
+  Dec. 22, 2017  \textbf{1}(September),  9--12 (2013).
+  \doi{10.1145/2818346.2830593}
 
 \bibitem{MFCC}
-{Li Deng}, D.Y.: {Automatic speech recognition}, vol.~9 (2015).
-  \doi{10.1007/BF02747521}
-
-\bibitem{noisycnn}
-Santos, R.M., Matos, L.N., Macedo, H.T., Montalvao, J.: {Speech recognition in
-  noisy environments with convolutional neural networks}. Proceedings - 2015
-  Brazilian Conference on Intelligent Systems, BRACIS 2015 pp. 175--179 (2016).
-  \doi{10.1109/BRACIS.2015.44}
+Deng, L., Yu, D.: {Automatic speech recognition, Springer Verlag}, vol.~9
+  (2015). \doi{10.1007/BF02747521}
 
 \bibitem{eyetrackemotionrec}
 Aracena, C., Basterrech, S., Snasel, V., Velasquez, J.: {Neural Networks for
@@ -69,13 +73,7 @@ Surace, L., Patacchiola, M., S{\"{o}}nmez, E.B., Spataro, W., Cangelosi, A.:
 \bibitem{cnnemotionrec}
 Huang, C.: {Combining convolutional neural networks for emotion recognition}.
   2017 IEEE MIT Undergraduate Research Technology Conference, URTC 2017
-  \textbf{2018-Janua}, ~1--4 (2018). \doi{10.1109/URTC.2017.8284175}
-
-\bibitem{facialemotionrecusingcnn}
-Awasthi, A.: {Facial Emotion Recognition Using Deep Learning}. IEEE 4th
-  International Conference on Knowledge-Based Engineering and Innovation (KBEI)
-  Dec. 22, 2017  \textbf{1}(September),  9--12 (2013).
-  \doi{10.1145/2818346.2830593}
+  pp.~1--4 (2018). \doi{10.1109/URTC.2017.8284175}
 
 \bibitem{Bajta2018}
 Bajta, M.E., Idri, A., Ros, J.N., Fernandez-Aleman, J.L., Gea, J.M.C.D.,
@@ -103,12 +101,12 @@ Jeffery, D.R., Low, G.: {Calibrating estimation tools for software
 \bibitem{Heemstra1992}
 Heemstra, F.J.: {Software Cost Estimation}. Handbook of Software Engineering,
   Hong Kong Polytechnic University  \textbf{34}(10) (1992).
-  \doi{10.1142/9789812389701_0014}
+  \doi{10.1142/97898123897010014}
 
 \bibitem{Huang2007}
 Huang, X., Ho, D., Ren, J., Capretz, L.F.: {Improving the COCOMO model using a
-  neuro-fuzzy approach}. Applied Soft Computing  \textbf{7}(1),  29--40 (jan
-  2007). \doi{10.1016/J.ASOC.2005.06.007}
+  neuro-fuzzy approach}. Applied Soft Computing  \textbf{7}(1),  29--40 (2007).
+  \doi{10.1016/J.ASOC.2005.06.007}
 
 \bibitem{Huang2006}
 Huang, S.J., Lin, C.Y., Chiu, N.H.: {Fuzzy decision tree approach for embedding
@@ -155,8 +153,8 @@ Gharehchopogh, F.S.: {Neural networks application in software cost estimation:
   \doi{10.1109/INISTA.2011.5946160}
 
 \bibitem{Franz2015}
-Franz, K.: {Handbuch zum Testen von Web- und Mobile-Apps} (2015).
-  \doi{10.1007/978-3-662-44028-5},
+Franz, K.: {Handbuch zum Testen von Web- und Mobile-Apps, Springer-Verlag
+  Berlin Heidelberg} (2015). \doi{10.1007/978-3-662-44028-5},
   \url{https://link.springer.com/book/10.1007{\%}2F978-3-662-44028-5}
 
 \bibitem{Wu2008}
@@ -169,7 +167,7 @@ Wu, L., Liu, B., Jin, Y., Xie, X.: {Using back-propagation neural networks for
 \bibitem{Majma2014}
 Majma, N., Babamir, S.M.: {Software test case generation {\&} test oracle
   design using neural network}. 22nd Iranian Conference on Electrical
-  Engineering, ICEE 2014 (Icee),  1168--1173 (2014).
+  Engineering, ICEE 2014 pp. 1168--1173 (2014).
   \doi{10.1109/IranianCEE.2014.6999712}
 
 \bibitem{Pomorova2013}

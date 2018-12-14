@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  20 NOV 2018 10:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  14 DEC 2018 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -168,12 +168,12 @@ Package pdftex.def Info: Bilder/Deckblatt/CompanyLogo.jpg  used on input line 1
 3.
 (pdftex.def)             Requested size: 170.71652pt x 46.23676pt.
 
-Overfull \hbox (14.31487pt too wide) in paragraph at lines 62--62
+Overfull \hbox (14.31487pt too wide) in paragraph at lines 61--61
  []\OT1/cmr/m/n/12 konstantin[]nils.rosenberg 
  []
 
 
-Overfull \hbox (1.12889pt too wide) in paragraph at lines 68--68
+Overfull \hbox (1.12889pt too wide) in paragraph at lines 67--67
  []\OT1/cmr/m/n/12 robin[]connor.schramm 
  []
 
@@ -195,36 +195,32 @@ att/UniversityLogo.png (PNG copy)> <./Bilder/Deckblatt/CompanyLogo.jpg>])
 \openout3 = `NNsInSWT.toc'.
 
 
-(./Kapitel/Einleitung/Einleitung.tex) [2
+(./Kapitel/Einleitung/Einleitung.tex
+<Bilder/CNN/CNNArchitektur.png, id=13, 869.649pt x 307.1475pt>
+File: Bilder/CNN/CNNArchitektur.png Graphic file (type png)
+<use Bilder/CNN/CNNArchitektur.png>
+Package pdftex.def Info: Bilder/CNN/CNNArchitektur.png  used on input line 7.
+(pdftex.def)             Requested size: 389.99818pt x 170.71727pt.
+ [2
 
-] [3]
-(./Kapitel/PatternRecognition/patternRecognition.tex)
-(./Kapitel/SpeechRecognition/speechrecognition.tex
-Overfull \hbox (0.77382pt too wide) in paragraph at lines 2--3
-\OT1/cmr/m/n/12 Speech recog-ni-tion, auch au-to-matic speech recog-ni-tion (AS
-R) genannt, macht
+] [3])
+(./Kapitel/PatternRecognition/patternRecognition.tex [4 <./Bilder/CNN/CNNArchit
+ektur.png>]) (./Kapitel/SpeechRecognition/speechrecognition.tex [5]
+Overfull \hbox (0.92014pt too wide) in paragraph at lines 5--8
+\OT1/cmr/m/n/12 In [[]] beschreibt Du Guim-ing et. al. einen Ver-such, bei dem 
+SR in Verbindung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-
+Overfull \hbox (2.88574pt too wide) in paragraph at lines 5--8
+\OT1/cmr/m/n/12 [[]] einge-setzt, welcher das Fre-quen-zspek-trum kom-pakt dars
+tellen kann. Nach
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
-
- []
-
-
-Overfull \hbox (13.12508pt too wide) in paragraph at lines 5--8
-\OT1/cmr/m/n/12 ment wird das CNN so trainiert, dass es die HMM-Verteilungswahr
-scheinlichkeit
- []
-
-[4] [5]) (./Kapitel/EmotionRecognition/emotionrecognition.tex
-Overfull \hbox (0.50984pt too wide) in paragraph at lines 2--7
-\OT1/cmr/m/n/12 Emo-tion recog-ni-tion findet aber auch An-wen-dung in Verbindu
-ng mit Sprache,
+[6]) (./Kapitel/EmotionRecognition/emotionrecognition.tex
+Overfull \hbox (14.44858pt too wide) in paragraph at lines 2--7
+\OT1/cmr/m/n/12 Methodisch wird zwis-chen statis-chen und dy-namis-chen Ver-fah
+ren un-ter-schieden.
  []
 
 
@@ -232,15 +228,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
  []
 
-[6]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
 
-[7]) (./Kapitel/PatternRecognition/conclusion.tex)
-(./Kapitel/costEffortEstimation/costEffortEstimationSections.tex
-Overfull \hbox (10.68584pt too wide) in paragraph at lines 1--1
-[]\OT1/cmr/bx/n/17.28 Cost and ef-fort es-ti-ma-tion (Robin Schramm) 
+[8]) (./Kapitel/costEffortEstimation/costEffortEstimationSections.tex
+Overfull \hbox (68.16377pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/17.28 Kosten- und Aufwandssch^^?atzung (Robin Schramm) 
  []
 
 
@@ -249,293 +244,238 @@ Overfull \hbox (0.79271pt too wide) in paragraph at lines 2--5
 ten. Darunter
  []
 
-[8] [9]
-Overfull \hbox (1.35844pt too wide) in paragraph at lines 21--22
-\OT1/cmr/m/n/12 lende Ergeb-nisse liefern, m^^?ussen die Train-ings-daten passe
-nd gew^^?ahlt sein.NNs
+[9] [10]
+Overfull \hbox (0.93622pt too wide) in paragraph at lines 21--22
+\OT1/cmr/m/n/12 NNs mit zuf^^?allig gew^^?ahlten Train-ings-daten liefern keine
+ besseren Sch^^?atzungen
  []
 
-[10]) [11] (./Kapitel/SoftwareQuality/SoftwareQuality.tex
+[11]) (./Kapitel/SoftwareQuality/SoftwareQuality.tex
 Overfull \hbox (6.55931pt too wide) in paragraph at lines 2--11
 \OT1/cmr/m/n/12 Ver-fahren, um die genan-nten Ma^^Y-nah-men mit NN's umzuset-ze
 n. Ab-schlie^^Yend
  []
 
-
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 13--18
 
  []
 
-[12] [13]
-Overfull \hbox (10.00845pt too wide) in paragraph at lines 28--30
+[13])
+Overfull \hbox (10.00845pt too wide) in paragraph at lines 28--25
 \OT1/cmr/m/n/12 Durch eine Vorher-sage der SQ k^^?onnen De-fizite fr^^?uhzeitig
  erkannt und verbessert
  []
 
-) (./Kapitel/Resumee/conclusion.tex) [14] (./NNsInSWT.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 18--21
-[]\OT1/cmr/m/n/12 Vydana, H.K., Vup-pala, A.K.: Resid-ual neu-ral net-works
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--21
-\OT1/cmr/m/n/12 for speech recog-ni-tion. 25th Eu-ro-pean Sig-nal Pro-cess-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--21
-\OT1/cmr/m/n/12 Con-fer-ence, EU-SIPCO 2017 \OT1/cmr/bx/n/12 2017-Janua\OT1/cmr
-/m/n/12 , 543--547 (2017).
- []
-
-[15]
-Underfull \hbox (badness 4378) in paragraph at lines 29--32
+(./Kapitel/Resumee/conclusion.tex) [14] (./NNsInSWT.bbl [15]
+Underfull \hbox (badness 4378) in paragraph at lines 35--38
 []\OT1/cmr/m/n/12 Khalifelu, Z.A., Ghare-hcho-pogh, F.S.: Com-par-i-son and eva
 l-
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 29--32
+Underfull \hbox (badness 4168) in paragraph at lines 35--38
 \OT1/cmr/m/n/12 u-a-tion of data min-ing tech-niques with al-go-rith-mic mod-el
 s in
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 29--32
+Underfull \hbox (badness 2401) in paragraph at lines 35--38
 \OT1/cmr/m/n/12 soft-ware cost es-ti-ma-tion. Pro-ce-dia Tech-nol-ogy \OT1/cmr/
 bx/n/12 1\OT1/cmr/m/n/12 , 65--71 (2012).
  []
 
 
-Underfull \hbox (badness 1540) in paragraph at lines 34--39
-\OT1/cmr/m/n/12 sti-tu-tion of Elec-tron-ics and Telecom-mu-ni-ca-tion En-gi-ne
-ers, In-dia)
+Underfull \hbox (badness 1320) in paragraph at lines 51--55
+[]\OT1/cmr/m/n/12 Awasthi, A.: Fa-cial Emo-tion Recog-ni-tion Us-ing Deep Learn
+-ing.
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
-(c:/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--45
-[]\OT1/cmr/m/n/12 A.~K.~Jain, R.~P.~W.~Duin, J.~Mao: \OMS/cmsy/m/n/12 f\OT1/cmr
-/m/n/12 S\OMS/cmsy/m/n/12 g\OT1/cmr/m/n/12 tatistical \OMS/cmsy/m/n/12 f\OT1/cm
-r/m/n/12 P\OMS/cmsy/m/n/12 g\OT1/cmr/m/n/12 attern
- []
-
-
-Underfull \hbox (badness 2903) in paragraph at lines 47--49
-[]\OT1/cmr/m/n/12 Li Deng, D.Y.: Au-to-matic speech recog-ni-tion, vol. 9 (2015
-).
- []
-
-
-Underfull \hbox (badness 2443) in paragraph at lines 57--61
+[16]
+Underfull \hbox (badness 2443) in paragraph at lines 61--65
 []\OT1/cmr/m/n/12 Aracena, C., Baster-rech, S., Snasel, V., Ve-lasquez, J.: Neu
 -
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 57--61
+Underfull \hbox (badness 2781) in paragraph at lines 61--65
 \OT1/cmr/m/n/12 ral Net-works for Emo-tion Recog-ni-tion Based on Eye Track-ing
 
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 57--61
+Underfull \hbox (badness 1603) in paragraph at lines 61--65
 \OT1/cmr/m/n/12 tems, Man, and Cy-ber-net-ics, SMC 2015 pp. 2632--2637 (2016).
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 70--73
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
 []\OT1/cmr/m/n/12 Huang, C.: Com-bin-ing con-vo-lu-tional neu-ral net-works for
- emo-
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--73
-\OT1/cmr/m/n/12 tion recog-ni-tion. 2017 IEEE MIT Un-der-grad-u-ate Re-search
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
+\OT1/cmr/m/n/12 emo-tion recog-ni-tion. 2017 IEEE MIT Un-der-grad-u-ate Re-
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 70--73
-\OT1/cmr/m/n/12 Tech-nol-ogy Con-fer-ence, URTC 2017 \OT1/cmr/bx/n/12 2018-Janu
-a\OT1/cmr/m/n/12 ,  1--4 (2018).
- []
-
-[16]
-Underfull \hbox (badness 1320) in paragraph at lines 75--79
-[]\OT1/cmr/m/n/12 Awasthi, A.: Fa-cial Emo-tion Recog-ni-tion Us-ing Deep Learn
--ing.
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
+\OT1/cmr/m/n/12 search Tech-nol-ogy Con-fer-ence, URTC 2017 pp. 1--4 (2018).
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 81--85
+Underfull \hbox (badness 1112) in paragraph at lines 79--83
 []\OT1/cmr/m/n/12 Bajta, M.E., Idri, A., Ros, J.N., Fernandez-Aleman, J.L., Gea
 ,
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 81--85
+Underfull \hbox (badness 1048) in paragraph at lines 79--83
 \OT1/cmr/m/n/12 proaches for global soft-ware de-vel-op-ment: a sys-tem-atic ma
 p-ping
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 81--85
+Underfull \hbox (badness 1688) in paragraph at lines 79--83
 \OT1/cmr/m/n/12 study. Ts-inghua Sci-ence and Tech-nol-ogy \OT1/cmr/bx/n/12 23\
 OT1/cmr/m/n/12 (6), 690--714 (2018).
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 99--102
+Underfull \hbox (badness 1342) in paragraph at lines 97--100
 \OT1/cmr/m/n/12 de-vel-op-ment. Soft-ware En-gi-neer-ing Jour-nal \OT1/cmr/bx/n
 /12 5\OT1/cmr/m/n/12 (4), 215--221 (1990).
  []
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.106   \doi{10.1142/9789812389701_0014}
-                                        
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.107 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.107 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Underfull \hbox (badness 2556) in paragraph at lines 104--107
+Underfull \hbox (badness 2556) in paragraph at lines 102--105
 []\OT1/cmr/m/n/12 Heemstra, F.J.: Soft-ware Cost Es-ti-ma-tion. Hand-book of So
 ft-
  []
 
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.107 
-      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 [17]
-Underfull \hbox (badness 1810) in paragraph at lines 147--150
+Underfull \hbox (badness 2875) in paragraph at lines 124--127
+[]\OT1/cmr/m/n/12 Chen, Z., Men-zies, T., Port, D., Boehm, B.: Fea-ture sub-
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 124--127
+\OT1/cmr/m/n/12 set se-lec-tion can im-prove soft-ware cost es-ti-ma-tion ac-cu
+-racy.
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 124--127
+\OT1/cmr/m/n/12 ACM SIG-SOFT Soft-ware En-gi-neer-ing Notes \OT1/cmr/bx/n/12 30
+\OT1/cmr/m/n/12 (4),  1 (2005).
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 145--148
 []\OT1/cmr/m/n/12 Finnie, G.R., Wit-tig, G.E.: AI tools for soft-ware de-vel-op
--ment ef-
+-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--150
-\OT1/cmr/m/n/12 fort es-ti-ma-tion. Soft-ware En-gi-neer-ing: Ed-u-ca-tion and 
-Prac-tice,
+Underfull \hbox (badness 1314) in paragraph at lines 145--148
+\OT1/cmr/m/n/12 ef-fort es-ti-ma-tion. Soft-ware En-gi-neer-ing: Ed-u-ca-tion a
+nd Prac-tice,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--150
+Underfull \hbox (badness 2564) in paragraph at lines 145--148
 \OT1/cmr/m/n/12 1996. Pro-ceed-ings. In-ter-na-tional Con-fer-ence pp. 346--353
  (1996).
  []
 
-
-Underfull \hbox (badness 1484) in paragraph at lines 152--156
-\OT1/cmr/m/n/12 ti-ma-tion: A case study. In: 2011 In-ter-na-tional Sym-po-sium
- on In-
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+[]\OT1/cmr/m/n/12 Franz, K.: Hand-buch zum Testen von Web-
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 152--156
-\OT1/cmr/m/n/12 no-va-tions in In-tel-li-gent Sys-tems and Ap-pli-ca-tions. pp.
- 69--73 (2011).
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+\OT1/cmr/m/n/12 und Mobile-Apps, Springer-Verlag Berlin Hei-del-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
-[]\OT1/cmr/m/n/12 Franz, K.: Hand-buch zum Testen von Web- und Mobile-
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
+\OT1/cmr/m/n/12 berg (2015). https://doi.org/10.1007/978-3-662-44028-5,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
-\OT1/cmr/m/n/12 Apps (2015). https://doi.org/10.1007/978-3-662-44028-5,
+Underfull \hbox (badness 2970) in paragraph at lines 161--166
+\OT1/cmr/m/n/12 ral net-works for func-tional soft-ware test-ing. In: 2nd In-te
+r-na-
  []
 
 
-Underfull \hbox (badness 7081) in paragraph at lines 163--168
-[]\OT1/cmr/m/n/12 Wu, L., Liu, B., Jin, Y., Xie, X.: Us-ing back-propagation
+Underfull \hbox (badness 4660) in paragraph at lines 161--166
+\OT1/cmr/m/n/12 ASID 2008 (2008). https://doi.org/10.1109/IWASID.2008.4688385,
  []
 
 
-Underfull \hbox (badness 7064) in paragraph at lines 163--168
-\OT1/cmr/m/n/12 neu-ral net-works for func-tional soft-ware test-ing. In: 2nd I
-n-ter-
- []
-
-
-Underfull \hbox (badness 4341) in paragraph at lines 163--168
-\OT1/cmr/m/n/12 na-tional Con-fer-ence on Anti-counterfeiting, Se-cu-rity and I
-den-ti-fi-ca-
- []
-
-
-Underfull \hbox (badness 7613) in paragraph at lines 170--174
+Underfull \hbox (badness 2626) in paragraph at lines 168--172
 []\OT1/cmr/m/n/12 Majma, N., Babamir, S.M.: Soft-ware test case gen-er-a-tion &
 
  []
 
 
-Underfull \hbox (badness 4699) in paragraph at lines 170--174
+Underfull \hbox (badness 3386) in paragraph at lines 168--172
 \OT1/cmr/m/n/12 test or-a-cle de-sign us-ing neu-ral net-work. 22nd Ira-nian Co
-n-fer-ence
+n-fer-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--174
-\OT1/cmr/m/n/12 on Elec-tri-cal En-gi-neer-ing, ICEE 2014 (Icee), 1168--1173 (2
-014).
+Underfull \hbox (badness 6157) in paragraph at lines 180--185
+[]\OT1/cmr/m/n/12 Peng, W., Yao, L., Miao, Q.: An ap-proach of soft-ware
  []
 
-[18]) [19] (./NNsInSWT.aux (./Kapitel/Deckblatt/deckblatt.aux)
+
+Underfull \hbox (badness 6625) in paragraph at lines 180--185
+\OT1/cmr/m/n/12 qual-ity pre-dic-tion based on re-la-tion-ship anal-y-sis and p
+re-dic-
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 180--185
+\OT1/cmr/m/n/12 tion model. In: Pro-ceed-ings of 2009 8th In-ter-na-tional Con-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
+\OT1/cmr/m/n/12 fer-ence on Re-li-a-bil-ity, Main-tain-abil-ity and Safety, ICR
+MS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
+\OT1/cmr/m/n/12 2009 (2009). https://doi.org/10.1109/ICRMS.2009.5270097,
+ []
+
+) [19] (./NNsInSWT.aux (./Kapitel/Deckblatt/deckblatt.aux)
 (./Kapitel/Abstract/abstract.aux)) ) 
 Here is how much of TeX's memory you used:
- 1619 strings out of 492639
- 24133 string characters out of 6133088
- 91567 words of memory out of 5000000
- 5447 multiletter control sequences out of 15000+600000
+ 1608 strings out of 492639
+ 23942 string characters out of 6133088
+ 91595 words of memory out of 5000000
+ 5439 multiletter control sequences out of 15000+600000
  8410 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,25p,2228b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,7n,25p,2227b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2018/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmex10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 mi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/
-2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2018/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on NNsInSWT.pdf (20 pages, 149359 bytes).
+c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on NNsInSWT.pdf (20 pages, 160885 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
+ 102 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -7,48 +7,48 @@ A level-1 auxiliary file: Kapitel/Abstract/abstract.aux
 Database file #1: patternrecognitionReferences.bib
 Database file #2: costEffortReferences.bib
 Database file #3: references.bib
+Warning--empty year in residualnn
 Warning--missing publisher in MFCC
 Warning--missing publisher in Franz2015
-Warning--there's a number but no volume in Majma2014
 You've used 32 entries,
             2850 wiz_defined-function locations,
-            846 strings with 12476 characters,
-and the built_in function-call counts, 15662 in all, are:
-= -- 1302
-> -- 296
-< -- 41
-+ -- 120
-- -- 88
-* -- 920
-:= -- 1752
+            842 strings with 12411 characters,
+and the built_in function-call counts, 15578 in all, are:
+= -- 1292
+> -- 302
+< -- 39
++ -- 122
+- -- 90
+* -- 897
+:= -- 1745
 add.period$ -- 64
 call.type$ -- 32
 change.case$ -- 42
 chr.to.int$ -- 0
 cite$ -- 35
-duplicate$ -- 1628
-empty$ -- 1574
-format.name$ -- 112
-if$ -- 3637
+duplicate$ -- 1621
+empty$ -- 1564
+format.name$ -- 115
+if$ -- 3619
 int.to.chr$ -- 0
 int.to.str$ -- 32
 missing$ -- 323
 newline$ -- 102
 num.names$ -- 32
-pop$ -- 516
+pop$ -- 532
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 473
+skip$ -- 476
 stack$ -- 0
-substring$ -- 985
-swap$ -- 955
-text.length$ -- 41
+substring$ -- 969
+swap$ -- 937
+text.length$ -- 39
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 140
+while$ -- 139
 width$ -- 34
-write$ -- 382
+write$ -- 380
 (There were 3 warnings)
