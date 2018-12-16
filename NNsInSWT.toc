@@ -11,10 +11,10 @@
 \contentsline {subsection}{\numberline {3.3}Soft-Computing Ans\IeC {\"a}tze}{11}
 \contentsline {subsection}{\numberline {3.4}Leistungsbeurteilung}{11}
 \contentsline {subsection}{\numberline {3.5}Vergleich}{12}
-\contentsline {subsection}{\numberline {3.6}Testabdeckung}{12}
-\contentsline {subsection}{\numberline {3.7}Software Metriken}{13}
-\contentsline {section}{\numberline {4}Softwarequalit\IeC {\"a}t (Konstantin Rosenberg)}{13}
-\contentsline {subsection}{\numberline {4.1}Automatisiertes Testen durch neural networks}{13}
-\contentsline {subsection}{\numberline {4.2}Evaluation von Softwarequalit\IeC {\"a}t}{14}
-\contentsline {subsection}{\numberline {4.3}Vorhersage von Softwarequalit\IeC {\"a}t}{14}
+\contentsline {section}{\numberline {4}Softwarequalit\IeC {\"a}t (Konstantin Rosenberg)}{12}
+\contentsline {subsection}{\numberline {4.1}Testabdeckung}{13}
+\contentsline {subsection}{\numberline {4.2}Software Metriken}{13}
+\contentsline {subsection}{\numberline {4.3}Automatisiertes Testen durch neural networks}{13}
+\contentsline {subsection}{\numberline {4.4}Evaluation von Softwarequalit\IeC {\"a}t}{14}
+\contentsline {subsection}{\numberline {4.5}Vorhersage von Softwarequalit\IeC {\"a}t}{14}
 \contentsline {section}{\numberline {5}Fazit und Ausblick (Alle)}{15}
