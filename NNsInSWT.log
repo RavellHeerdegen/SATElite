@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  27 DEC 2018 20:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  27 DEC 2018 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -41,10 +41,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -55,8 +55,12 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks16
 \verbatim@in@stream=\read1
 )
+(c:/texlive/2018/texmf-dist/tex/latex/nowidow/nowidow.sty
+Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
+Package: nowidow 
 
-! LaTeX Error: File `nowidow.sty' not found.
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
@@ -186,96 +190,48 @@ att/UniversityLogo.png (PNG copy)> <./Bilder/Deckblatt/CompanyLogo.jpg>])
 (./Kapitel/Abstract/abstract.tex) [1
 
 
-] (./NNsInSWT.toc
-Overfull \hbox (6.05281pt too wide) in paragraph at lines 9--9
- [] []\OT1/cmr/bx/n/14.4 Kosten- und Aufwandssch^^?atzung (Robin Schramm) []  
- []
-
-)
+] (./NNsInSWT.toc)
 \tf@toc=\write3
 \openout3 = `NNsInSWT.toc'.
 
- (./Kapitel/Einleitung/Einleitung.tex [2
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 2--5
+(./Kapitel/Einleitung/Einleitung.tex [2
+
+] [3]
+<Bilder/NN/NeuralNetwork.png, id=19, 381.22424pt x 336.65775pt>
+File: Bilder/NN/NeuralNetwork.png Graphic file (type png)
+<use Bilder/NN/NeuralNetwork.png>
+Package pdftex.def Info: Bilder/NN/NeuralNetwork.png  used on input line 11.
+(pdftex.def)             Requested size: 390.00116pt x 170.712pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
  []
 
 
-LaTeX Warning: Citation `Maind2014' on page 3 undefined on input line 8.
-
-
-LaTeX Warning: File `Bilder/NN/NeuralNetwork.png' not found on input line 11.
-
-
-! Package pdftex.def Error: File `Bilder/NN/NeuralNetwork.png' not found: using
- draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 ..., height=6cm]{Bilder/NN/NeuralNetwork.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Citation `Maind2014' on page 3 undefined on input line 12.
-
-
-Overfull \hbox (3.57787pt too wide) in paragraph at lines 7--15
-\OT1/cmr/m/n/12 NNs wer-den ver-wen-det, um un^^?ubersichtliche und kom-plizier
-te Prob-leme l^^?osen.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--15
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
  []
 
-[3]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 \vspace
-            {6.0cm}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<Bilder/CNN/CNNArchitektur.png, id=19, 873.86475pt x 312.56775pt>
+[4 <./Bilder/NN/NeuralNetwork.PNG>]
+(./Kapitel/PatternRecognition/patternRecognition.tex
+<Bilder/CNN/CNNArchitektur.png, id=25, 873.86475pt x 312.56775pt>
 File: Bilder/CNN/CNNArchitektur.png Graphic file (type png)
 <use Bilder/CNN/CNNArchitektur.png>
-Package pdftex.def Info: Bilder/CNN/CNNArchitektur.png  used on input line 20.
+Package pdftex.def Info: Bilder/CNN/CNNArchitektur.png  used on input line 10.
 (pdftex.def)             Requested size: 389.99533pt x 170.71567pt.
+) [5]
+(./Kapitel/SpeechRecognition/speechrecognition.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+ []
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 D
-      as Hidden Markov Model (HMM) ist bekannt für seinen Nutzen im Bereich...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[4]) (./Kapitel/PatternRecognition/patternRecognition.tex [5] [6 <./Bilder/CNN/
-CNNArchitektur.png>]) (./Kapitel/SpeechRecognition/speechrecognition.tex
+[6 <./Bilder/CNN/CNNArchitektur.png>]
 Overfull \hbox (2.88574pt too wide) in paragraph at lines 5--10
 \OT1/cmr/m/n/12 [[]] einge-setzt, welcher das Fre-quen-zspek-trum kom-pakt dars
 tellen kann. Nach
@@ -286,7 +242,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--10
 
  []
 
-[7] [8]) (./Kapitel/EmotionRecognition/emotionrecognition.tex
+
+Overfull \hbox (5.20433pt too wide) in paragraph at lines 5--10
+\OT1/cmr/m/n/12 Rafael M. San-tos et al. zeigen in [[]] auf, wie sich ein CNN i
+n einer ger^^?auschvol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--10
+
+ []
+
+[7]) (./Kapitel/EmotionRecognition/emotionrecognition.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--10
 
  []
@@ -301,81 +268,72 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--10
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 11--15
 
  []
 
-[9] [10]) (./Kapitel/costEffortEstimation/costEffortEstimationSections.tex
+[9]) (./Kapitel/costEffortEstimation/costEffortEstimationSections.tex
 Overfull \hbox (0.79271pt too wide) in paragraph at lines 2--5
 \OT1/cmr/m/n/12 kom-merziell genutzt wodurch sich neue Arten von Kun-den bilde-
 ten. Darunter
  []
 
-[11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
+[10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 31--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--23
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--23
-
- []
-
-[13] (./Kapitel/SoftwareQuality/SoftwareQuality.tex
+) [13] (./Kapitel/SoftwareQuality/SoftwareQuality.tex
 Overfull \hbox (0.18762pt too wide) in paragraph at lines 2--9
 \OT1/cmr/m/n/12 tionalen und nicht-funktionalen Merk-malen von Soft-ware-qualit
 ^^?at (SQ). Funk-
  []
 
-[14] [15]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 25--31
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.7 ^^M
-       
-*** (cannot \read from terminal in nonstop modes)
+ []
 
-)
+[15])
 Overfull \hbox (10.00845pt too wide) in paragraph at lines 33--25
 \OT1/cmr/m/n/12 Durch eine Vorher-sage der SQ k^^?onnen De-fizite fr^^?uhzeitig
  erkannt und verbessert
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--25
+
+ []
+
 (./Kapitel/Resumee/conclusion.tex) [16] (./NNsInSWT.bbl [17]
+Underfull \hbox (badness 6157) in paragraph at lines 23--27
+\OT1/cmr/m/n/12 ti-fi-cial Neu-ral Net-work. In-ter-na-tional Jour-nal on Re-ce
+nt and
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 23--27
+\OT1/cmr/m/n/12 In-no-va-tion Trends in Com-put-ing and Com-mu-ni-ca-tion \OT1/
+cmr/bx/n/12 2\OT1/cmr/m/n/12 (1), 96--
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+\OT1/cmr/m/n/12 100 (2014). https://doi.org/10.1109/Oceans-Spain.2011.6003625,
+ []
+
+
 Underfull \hbox (badness 4378) in paragraph at lines 35--38
 []\OT1/cmr/m/n/12 Khalifelu, Z.A., Ghare-hcho-pogh, F.S.: Com-par-i-son and eva
 l-
@@ -400,204 +358,169 @@ Underfull \hbox (badness 1320) in paragraph at lines 51--55
  []
 
 [18]
-Underfull \hbox (badness 2443) in paragraph at lines 61--65
+Underfull \hbox (badness 2443) in paragraph at lines 67--71
 []\OT1/cmr/m/n/12 Aracena, C., Baster-rech, S., Snasel, V., Ve-lasquez, J.: Neu
 -
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 61--65
+Underfull \hbox (badness 2781) in paragraph at lines 67--71
 \OT1/cmr/m/n/12 ral Net-works for Emo-tion Recog-ni-tion Based on Eye Track-ing
 
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 61--65
+Underfull \hbox (badness 1603) in paragraph at lines 67--71
 \OT1/cmr/m/n/12 tems, Man, and Cy-ber-net-ics, SMC 2015 pp. 2632--2637 (2016).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 []\OT1/cmr/m/n/12 Huang, C.: Com-bin-ing con-vo-lu-tional neu-ral net-works for
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 \OT1/cmr/m/n/12 emo-tion recog-ni-tion. 2017 IEEE MIT Un-der-grad-u-ate Re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 \OT1/cmr/m/n/12 search Tech-nol-ogy Con-fer-ence, URTC 2017 pp. 1--4 (2018).
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 79--83
+Underfull \hbox (badness 1112) in paragraph at lines 85--89
 []\OT1/cmr/m/n/12 Bajta, M.E., Idri, A., Ros, J.N., Fernandez-Aleman, J.L., Gea
 ,
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 79--83
+Underfull \hbox (badness 1048) in paragraph at lines 85--89
 \OT1/cmr/m/n/12 proaches for global soft-ware de-vel-op-ment: a sys-tem-atic ma
 p-ping
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 79--83
+Underfull \hbox (badness 1688) in paragraph at lines 85--89
 \OT1/cmr/m/n/12 study. Ts-inghua Sci-ence and Tech-nol-ogy \OT1/cmr/bx/n/12 23\
 OT1/cmr/m/n/12 (6), 690--714 (2018).
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 97--100
+Underfull \hbox (badness 1342) in paragraph at lines 103--106
 \OT1/cmr/m/n/12 de-vel-op-ment. Soft-ware En-gi-neer-ing Jour-nal \OT1/cmr/bx/n
 /12 5\OT1/cmr/m/n/12 (4), 215--221 (1990).
  []
 
-
-Underfull \hbox (badness 2556) in paragraph at lines 102--105
+[19]
+Underfull \hbox (badness 2556) in paragraph at lines 108--111
 []\OT1/cmr/m/n/12 Heemstra, F.J.: Soft-ware Cost Es-ti-ma-tion. Hand-book of So
 ft-
  []
 
-[19]
-Underfull \hbox (badness 2875) in paragraph at lines 124--127
+
+Underfull \hbox (badness 2875) in paragraph at lines 129--132
 []\OT1/cmr/m/n/12 Chen, Z., Men-zies, T., Port, D., Boehm, B.: Fea-ture sub-
  []
 
 
-Underfull \hbox (badness 7851) in paragraph at lines 124--127
+Underfull \hbox (badness 7851) in paragraph at lines 129--132
 \OT1/cmr/m/n/12 set se-lec-tion can im-prove soft-ware cost es-ti-ma-tion ac-cu
 -racy.
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 124--127
+Underfull \hbox (badness 2521) in paragraph at lines 129--132
 \OT1/cmr/m/n/12 ACM SIG-SOFT Soft-ware En-gi-neer-ing Notes \OT1/cmr/bx/n/12 30
 \OT1/cmr/m/n/12 (4),  1 (2005).
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 145--148
+Underfull \hbox (badness 1571) in paragraph at lines 150--153
 []\OT1/cmr/m/n/12 Finnie, G.R., Wit-tig, G.E.: AI tools for soft-ware de-vel-op
 -ment
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 145--148
+Underfull \hbox (badness 1314) in paragraph at lines 150--153
 \OT1/cmr/m/n/12 ef-fort es-ti-ma-tion. Soft-ware En-gi-neer-ing: Ed-u-ca-tion a
 nd Prac-tice,
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 145--148
+Underfull \hbox (badness 2564) in paragraph at lines 150--153
 \OT1/cmr/m/n/12 1996. Pro-ceed-ings. In-ter-na-tional Con-fer-ence pp. 346--353
  (1996).
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 156--159
-[]\OT1/cmr/m/n/12 Franz, K.: Hand-buch zum Testen von Web-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--159
-\OT1/cmr/m/n/12 und Mobile-Apps, Springer-Verlag Berlin Hei-del-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--159
-\OT1/cmr/m/n/12 berg (2015). https://doi.org/10.1007/978-3-662-44028-5,
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 161--163
+Underfull \hbox (badness 1888) in paragraph at lines 165--167
 []\OT1/cmr/m/n/12 Antinyan, V., Dere-hag, J., Sand-berg, A., Staron, M.: Myth-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 \OT1/cmr/m/n/12 i-cal unit test cov-er-age. IEEE Soft-ware (3), 73--79 (2018).
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 170--175
-\OT1/cmr/m/n/12 ral net-works for func-tional soft-ware test-ing. In: 2nd In-te
-r-na-
- []
-
-
-Underfull \hbox (badness 4660) in paragraph at lines 170--175
-\OT1/cmr/m/n/12 ASID 2008 (2008). https://doi.org/10.1109/IWASID.2008.4688385,
- []
-
-
-Underfull \hbox (badness 2626) in paragraph at lines 177--181
+Underfull \hbox (badness 2626) in paragraph at lines 180--184
 []\OT1/cmr/m/n/12 Majma, N., Babamir, S.M.: Soft-ware test case gen-er-a-tion &
 
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 177--181
+Underfull \hbox (badness 3386) in paragraph at lines 180--184
 \OT1/cmr/m/n/12 test or-a-cle de-sign us-ing neu-ral net-work. 22nd Ira-nian Co
 n-fer-
  []
 
 
-Underfull \hbox (badness 6157) in paragraph at lines 189--194
+Underfull \hbox (badness 6157) in paragraph at lines 192--196
 []\OT1/cmr/m/n/12 Peng, W., Yao, L., Miao, Q.: An ap-proach of soft-ware
  []
 
 
-Underfull \hbox (badness 6625) in paragraph at lines 189--194
+Underfull \hbox (badness 2334) in paragraph at lines 192--196
 \OT1/cmr/m/n/12 qual-ity pre-dic-tion based on re-la-tion-ship anal-y-sis and p
-re-dic-
+re-dic-tion
  []
 
 
-Underfull \hbox (badness 4366) in paragraph at lines 189--194
-\OT1/cmr/m/n/12 tion model. In: Pro-ceed-ings of 2009 8th In-ter-na-tional Con-
-
+Underfull \hbox (badness 4217) in paragraph at lines 192--196
+\OT1/cmr/m/n/12 model. In: Pro-ceed-ings of 2009 8th In-ter-na-tional Con-fer-e
+nce
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--194
-\OT1/cmr/m/n/12 fer-ence on Re-li-a-bil-ity, Main-tain-abil-ity and Safety, ICR
-MS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--194
-\OT1/cmr/m/n/12 2009 (2009). https://doi.org/10.1109/ICRMS.2009.5270097,
+Underfull \hbox (badness 2134) in paragraph at lines 192--196
+\OT1/cmr/m/n/12 on Re-li-a-bil-ity, Main-tain-abil-ity and Safety, ICRMS 2009 (
+2009).
  []
 
 ) [21] (./NNsInSWT.aux (./Kapitel/Deckblatt/deckblatt.aux)
-(./Kapitel/Abstract/abstract.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(./Kapitel/Abstract/abstract.aux)) ) 
 Here is how much of TeX's memory you used:
- 1612 strings out of 492639
- 23994 string characters out of 6133088
- 91604 words of memory out of 5000000
- 5441 multiletter control sequences out of 15000+600000
+ 1617 strings out of 492639
+ 24136 string characters out of 6133088
+ 90608 words of memory out of 5000000
+ 5446 multiletter control sequences out of 15000+600000
  8410 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,7n,25p,2227b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
-live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2018
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2018/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2018/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmtt12.pfb>
-Output written on NNsInSWT.pdf (22 pages, 165108 bytes).
+<c:/texlive/2018/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on NNsInSWT.pdf (22 pages, 181688 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
