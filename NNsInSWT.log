@@ -41,10 +41,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -55,12 +55,8 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \verbatim@line=\toks16
 \verbatim@in@stream=\read1
 )
-(c:/texlive/2018/texmf-dist/tex/latex/nowidow/nowidow.sty
-Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
-Package: nowidow 
 
-(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+! LaTeX Error: File `nowidow.sty' not found.
 
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
@@ -365,7 +361,13 @@ Overfull \hbox (0.18762pt too wide) in paragraph at lines 2--9
 [14] [15]
 Underfull \hbox (badness 10000) in paragraph at lines 25--31
 
- []
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.7 ^^M
+       
+*** (cannot \read from terminal in nonstop modes)
 
 )
 Overfull \hbox (10.00845pt too wide) in paragraph at lines 33--25
