@@ -1,20 +1,21 @@
 \contentsline {section}{\numberline {1}Einleitung (Alle)}{3}
-\contentsline {section}{\numberline {2}Mustererkennung (Ravell Heerdegen)}{5}
-\contentsline {subsection}{\numberline {2.1}Convolutional neural networks}{5}
-\contentsline {subsection}{\numberline {2.2}Spracherkennung}{6}
-\contentsline {subsubsection}{\numberline {2.2.1}Spracherkennung und convolutional neural networks}{6}
-\contentsline {subsubsection}{\numberline {2.2.2}Spracherkennung und residual neural networks}{7}
-\contentsline {subsection}{\numberline {2.3}Gef\IeC {\"u}hlserkennung}{7}
-\contentsline {section}{\numberline {3}{\relax \fontsize {14.4}{18}\selectfont Kosten- und Aufwandssch\IeC {\"a}tzung (Robin Schramm)}}{9}
-\contentsline {subsection}{\numberline {3.1}Stand der Technik}{10}
-\contentsline {subsection}{\numberline {3.2}COCOMO}{10}
-\contentsline {subsection}{\numberline {3.3}Soft-Computing Ans\IeC {\"a}tze}{11}
-\contentsline {subsection}{\numberline {3.4}Leistungsbeurteilung}{12}
-\contentsline {subsection}{\numberline {3.5}Vergleich}{12}
-\contentsline {section}{\numberline {4}Softwarequalit\IeC {\"a}t (Konstantin Rosenberg)}{13}
-\contentsline {subsection}{\numberline {4.1}Testabdeckung}{13}
-\contentsline {subsection}{\numberline {4.2}Software Metriken}{13}
-\contentsline {subsection}{\numberline {4.3}Automatisiertes Testen durch neural networks}{14}
-\contentsline {subsection}{\numberline {4.4}Evaluation von Softwarequalit\IeC {\"a}t}{14}
-\contentsline {subsection}{\numberline {4.5}Vorhersage von Softwarequalit\IeC {\"a}t}{15}
-\contentsline {section}{\numberline {5}Fazit und Ausblick (Alle)}{15}
+\contentsline {section}{\numberline {2}Neuronale Netzwerke}{3}
+\contentsline {section}{\numberline {3}Mustererkennung (Ravell Heerdegen)}{6}
+\contentsline {subsection}{\numberline {3.1}Convolutional neural networks}{6}
+\contentsline {subsection}{\numberline {3.2}Spracherkennung}{7}
+\contentsline {subsubsection}{\numberline {3.2.1}Spracherkennung und convolutional neural networks}{7}
+\contentsline {subsubsection}{\numberline {3.2.2}Spracherkennung und residual neural networks}{8}
+\contentsline {subsection}{\numberline {3.3}Gef\IeC {\"u}hlserkennung}{9}
+\contentsline {section}{\numberline {4}{\relax \fontsize {14.4}{18}\selectfont Kosten- und Aufwandssch\IeC {\"a}tzung (Robin Schramm)}}{11}
+\contentsline {subsection}{\numberline {4.1}Stand der Technik}{11}
+\contentsline {subsection}{\numberline {4.2}COCOMO}{12}
+\contentsline {subsection}{\numberline {4.3}Soft-Computing Ans\IeC {\"a}tze}{13}
+\contentsline {subsection}{\numberline {4.4}Leistungsbeurteilung}{13}
+\contentsline {subsection}{\numberline {4.5}Vergleich}{14}
+\contentsline {section}{\numberline {5}Softwarequalit\IeC {\"a}t (Konstantin Rosenberg)}{14}
+\contentsline {subsection}{\numberline {5.1}Testabdeckung}{15}
+\contentsline {subsection}{\numberline {5.2}Software Metriken}{15}
+\contentsline {subsection}{\numberline {5.3}Automatisiertes Testen durch neural networks}{15}
+\contentsline {subsection}{\numberline {5.4}Evaluation von Softwarequalit\IeC {\"a}t}{16}
+\contentsline {subsection}{\numberline {5.5}Vorhersage von Softwarequalit\IeC {\"a}t}{16}
+\contentsline {section}{\numberline {6}Fazit und Ausblick (Alle)}{17}
