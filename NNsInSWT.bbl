@@ -16,7 +16,7 @@ Vydana, H.K., Vuppala, A.K.: {Residual neural networks for speech recognition}.
 \bibitem{usingcnn}
 Guiming, D., Xia, W., Guangyan, W., Yan, Z., Dan, L.: {Speech recognition based
   on convolutional neural networks}. 2016 IEEE International Conference on
-  Signal and Image Processing, ICSIP 2016 pp. 708--711 (2017).
+  Signal and Image Processing, ICSIP 2016 pp. 708--711.
   \doi{10.1109/SIPROCESS.2016.7888355}
 
 \bibitem{Maind2014}
@@ -97,7 +97,7 @@ Bilgaiyan, S., Mishra, S., Das, M.: {A Review of Software Cost Estimation in
   Agile Software Development Using Soft Computing Techniques}. In: 2016 2nd
   International Conference on Computational Intelligence and Networks (CINE),
   Computational Intelligence and Networks (CINE), 2016 2nd International
-  Conference on, cine. p.~112. IEEE (2016). \doi{10.1109/CINE.2016.27}
+  Conference on, cine. p.~112. IEEE. \doi{10.1109/CINE.2016.27}
 
 \bibitem{Jeffery1990}
 Jeffery, D.R., Low, G.: {Calibrating estimation tools for software
@@ -144,7 +144,7 @@ Boetticher, G.D.: {Using Machine Learning to Predict Project Effort: Empirical
 
 \bibitem{Setyawati2002}
 Setyawati, B.R., Sahirman, S., Creese, R.C.: {Neural Networks for Cost
-  Estimation.} AACE International Transactions p.~13.1 (jun 2002)
+  Estimation.} AACE International Transactions p.~13.1 (2002)
 
 \bibitem{Finnie1996}
 Finnie, G.R., Wittig, G.E.: {AI tools for software development effort
@@ -173,7 +173,7 @@ Committee, S.{\&}.S.E.S., Others: {IEEE Std 1061-1998-IEEE Standard for a
 \bibitem{Wu2008}
 Wu, L., Liu, B., Jin, Y., Xie, X.: {Using back-propagation neural networks for
   functional software testing}. In: 2nd International Conference on
-  Anti-counterfeiting, Security and Identification, ASID 2008 (2008).
+  Anti-counterfeiting, Security and Identification, ASID 2008.
   \doi{10.1109/IWASID.2008.4688385}
 
 \bibitem{Majma2014}
@@ -192,6 +192,6 @@ Pomorova, O., Hovorushchenko, T.: {Artificial neural network for software
 Peng, W., Yao, L., Miao, Q.: {An approach of software quality prediction based
   on relationship analysis and prediction model}. In: Proceedings of 2009 8th
   International Conference on Reliability, Maintainability and Safety, ICRMS
-  2009 (2009). \doi{10.1109/ICRMS.2009.5270097}
+  2009. \doi{10.1109/ICRMS.2009.5270097}
 
 \end{thebibliography}

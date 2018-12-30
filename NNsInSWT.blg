@@ -8,49 +8,53 @@ Database file #1: patternrecognitionReferences.bib
 Database file #2: costEffortReferences.bib
 Database file #3: references.bib
 Warning--empty year in residualnn
+Warning--empty year in usingcnn
 Warning--missing publisher in MFCC
+Warning--empty year in Bilgaiyan2016
 Warning--empty year in Jain2016
 Warning--missing publisher in Franz2015
 Warning--there's a number but no volume in Antinyan2018
+Warning--empty year in Wu2008
+Warning--empty year in Peng2009
 You've used 35 entries,
             2850 wiz_defined-function locations,
-            859 strings with 12865 characters,
-and the built_in function-call counts, 16829 in all, are:
-= -- 1386
+            858 strings with 12861 characters,
+and the built_in function-call counts, 16592 in all, are:
+= -- 1354
 > -- 329
 < -- 42
 + -- 133
 - -- 98
-* -- 965
-:= -- 1883
+* -- 948
+:= -- 1847
 add.period$ -- 69
 call.type$ -- 35
 change.case$ -- 45
 chr.to.int$ -- 0
-cite$ -- 40
-duplicate$ -- 1758
-empty$ -- 1692
+cite$ -- 44
+duplicate$ -- 1733
+empty$ -- 1663
 format.name$ -- 126
-if$ -- 3903
+if$ -- 3842
 int.to.chr$ -- 0
 int.to.str$ -- 35
 missing$ -- 352
 newline$ -- 111
 num.names$ -- 35
-pop$ -- 583
+pop$ -- 592
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 511
+skip$ -- 516
 stack$ -- 0
-substring$ -- 1036
-swap$ -- 1018
+substring$ -- 996
+swap$ -- 1007
 text.length$ -- 42
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 150
+warning$ -- 9
+while$ -- 146
 width$ -- 37
-write$ -- 409
-(There were 5 warnings)
+write$ -- 405
+(There were 9 warnings)
