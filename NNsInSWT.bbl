@@ -25,17 +25,6 @@ Maind, M.S.B., Wankar, M.P.: {Research Paper on Basic of Artificial Neural
   and Communication  \textbf{2}(1),  96--100 (2014).
   \doi{10.1109/Oceans-Spain.2011.6003625}, \url{http://www.ijritcc.org}
 
-\bibitem{hmm}
-Tang, X.: {Hybrid hidden markov model and artificial neural network for
-  automatic speech recognition}. Proceedings of the 2009 Pacific-Asia
-  Conference on Circuits, Communications and System, PACCS 2009, pp. 682--685
-  (2009). \doi{10.1109/PACCS.2009.138}
-
-\bibitem{Khalifelu2012}
-Khalifelu, Z.A., Gharehchopogh, F.S.: {Comparison and evaluation of data mining
-  techniques with algorithmic models in software cost estimation}. Procedia
-  Technology  \textbf{1},  65--71 (2012). \doi{10.1016/j.protcy.2012.02.013}
-
 \bibitem{svmgmm}
 Jayashree, P., Melvin~Jose, J., Premkumar: {Machine learning in automatic
   speech recognition: A survey}. IETE Technical Review (Institution of
@@ -58,6 +47,17 @@ Santos, R.M., Matos, L.N., Macedo, H.T., Montalvao, J.: {Speech recognition in
   noisy environments with convolutional neural networks}. Proceedings - 2015
   Brazilian Conference on Intelligent Systems, BRACIS 2015 pp. 175--179 (2016).
   \doi{10.1109/BRACIS.2015.44}
+
+\bibitem{hmm}
+Tang, X.: {Hybrid hidden markov model and artificial neural network for
+  automatic speech recognition}. Proceedings of the 2009 Pacific-Asia
+  Conference on Circuits, Communications and System, PACCS 2009, pp. 682--685
+  (2009). \doi{10.1109/PACCS.2009.138}
+
+\bibitem{Khalifelu2012}
+Khalifelu, Z.A., Gharehchopogh, F.S.: {Comparison and evaluation of data mining
+  techniques with algorithmic models in software cost estimation}. Procedia
+  Technology  \textbf{1},  65--71 (2012). \doi{10.1016/j.protcy.2012.02.013}
 
 \bibitem{MFCC}
 Deng, L., Yu, D.: {Automatic speech recognition, Springer Verlag}, vol.~9

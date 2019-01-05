@@ -1,7 +1,7 @@
 \contentsline {section}{\numberline {1}Einleitung (Alle)}{3}
 \contentsline {section}{\numberline {2}Mustererkennung (Ravell Heerdegen)}{5}
-\contentsline {subsection}{\numberline {2.1}Convolutional neural networks}{6}
-\contentsline {subsection}{\numberline {2.2}Spracherkennung}{7}
+\contentsline {subsection}{\numberline {2.1}Convolutional neural networks}{5}
+\contentsline {subsection}{\numberline {2.2}Spracherkennung}{6}
 \contentsline {subsubsection}{\numberline {2.2.1}Spracherkennung und convolutional neural networks}{7}
 \contentsline {subsubsection}{\numberline {2.2.2}Spracherkennung und residual neural networks}{8}
 \contentsline {subsection}{\numberline {2.3}Gef\IeC {\"u}hlserkennung}{8}
