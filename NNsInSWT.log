@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  5 JAN 2019 19:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  7 JAN 2019 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -227,9 +227,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 <Bilder/CNN/CNNArchitektur.png, id=26, 873.86475pt x 312.56775pt>
 File: Bilder/CNN/CNNArchitektur.png Graphic file (type png)
 <use Bilder/CNN/CNNArchitektur.png>
-Package pdftex.def Info: Bilder/CNN/CNNArchitektur.png  used on input line 11.
+Package pdftex.def Info: Bilder/CNN/CNNArchitektur.png  used on input line 12.
 (pdftex.def)             Requested size: 389.99533pt x 170.71567pt.
 )
+Underfull \hbox (badness 10000) in paragraph at lines 6--17
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 6--17
 
  []
@@ -299,21 +304,22 @@ Overfull \hbox (2.31818pt too wide) in paragraph at lines 9--14
  aus Bildern,
  []
 
-[9]) (./Kapitel/costEffortEstimation/costEffortEstimationSections.tex
-Overfull \hbox (0.79271pt too wide) in paragraph at lines 2--5
-\OT1/cmr/m/n/12 kom-merziell genutzt wodurch sich neue Arten von Kun-den bilde-
-ten. Darunter
+[9]) (./Kapitel/costEffortEstimation/costEffortEstimationSections.tex [10]
+[11]
+Overfull \hbox (2.76816pt too wide) in paragraph at lines 10--14
+\OT1/cmr/m/n/12 neben-bei gemacht und nicht als eigenst^^?andiger Punkt in der 
+Pla-nung beachtet,
  []
 
-[10] [11] [12]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
 )
-Overfull \hbox (4.90518pt too wide) in paragraph at lines 29--23
-\OT1/cmr/m/n/12 ^^?ahnliche Ergeb-nisse wie das Re-gres-sion-s-mod-ell [[]]. - 
-Besser als COCOMO[[]]
+Overfull \hbox (8.97745pt too wide) in paragraph at lines 29--23
+\OT1/cmr/m/n/12 Kosten-sch^^?atzung. Das NN hat in 90% der getesteten Pro-jekte
+ einen niedrigeren
  []
 
 [13] (./Kapitel/SoftwareQuality/SoftwareQuality.tex
@@ -322,39 +328,34 @@ Overfull \hbox (0.18762pt too wide) in paragraph at lines 2--9
 ^^?at (SQ). Funk-
  []
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 25--31
-
- []
-
-[15])
-Overfull \hbox (10.00845pt too wide) in paragraph at lines 33--25
+[14] [15])
+Overfull \hbox (10.00845pt too wide) in paragraph at lines 32--25
 \OT1/cmr/m/n/12 Durch eine Vorher-sage der SQ k^^?onnen De-fizite fr^^?uhzeitig
  erkannt und verbessert
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--25
+Underfull \hbox (badness 10000) in paragraph at lines 32--25
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--25
-
- []
-
-(./Kapitel/Resumee/conclusion.tex)
+[16] (./Kapitel/Resumee/conclusion.tex)
 Overfull \hbox (3.66953pt too wide) in paragraph at lines 6--27
 \OT1/cmr/m/n/12 passende NNs aus-gew^^?ahlt und ko-r-rekt kon-fig-uri-ert wer-d
 en, liefern NNs bessere
  []
 
-[16] (./NNsInSWT.bbl [17]
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--27
+
+ []
+
+[17] (./NNsInSWT.bbl
 Underfull \hbox (badness 6157) in paragraph at lines 23--27
 \OT1/cmr/m/n/12 ti-fi-cial Neu-ral Net-work. In-ter-na-tional Jour-nal on Re-ce
 nt and
@@ -446,13 +447,13 @@ Underfull \hbox (badness 1688) in paragraph at lines 85--89
 OT1/cmr/m/n/12 (6), 690--714 (2018).
  []
 
-
+[19]
 Underfull \hbox (badness 1342) in paragraph at lines 103--106
 \OT1/cmr/m/n/12 de-vel-op-ment. Soft-ware En-gi-neer-ing Jour-nal \OT1/cmr/bx/n
 /12 5\OT1/cmr/m/n/12 (4), 215--221 (1990).
  []
 
-[19]
+
 Underfull \hbox (badness 2556) in paragraph at lines 108--111
 []\OT1/cmr/m/n/12 Heemstra, F.J.: Soft-ware Cost Es-ti-ma-tion. Hand-book of So
 ft-
@@ -475,7 +476,7 @@ Underfull \hbox (badness 2521) in paragraph at lines 129--132
 \OT1/cmr/m/n/12 (4),  1 (2005).
  []
 
-
+[20]
 Underfull \hbox (badness 1571) in paragraph at lines 150--153
 []\OT1/cmr/m/n/12 Finnie, G.R., Wit-tig, G.E.: AI tools for soft-ware de-vel-op
 -ment
@@ -493,7 +494,7 @@ Underfull \hbox (badness 2564) in paragraph at lines 150--153
  (1996).
  []
 
-[20]
+
 Underfull \hbox (badness 1888) in paragraph at lines 165--167
 []\OT1/cmr/m/n/12 Antinyan, V., Dere-hag, J., Sand-berg, A., Staron, M.: Myth-
  []
@@ -520,7 +521,7 @@ n-fer-
 Here is how much of TeX's memory you used:
  1617 strings out of 492639
  24136 string characters out of 6133088
- 90608 words of memory out of 5000000
+ 89608 words of memory out of 5000000
  5446 multiletter control sequences out of 15000+600000
  8410 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -532,7 +533,7 @@ mi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texliv
 e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2018/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on NNsInSWT.pdf (22 pages, 181559 bytes).
+Output written on NNsInSWT.pdf (22 pages, 182460 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
