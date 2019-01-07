@@ -14,7 +14,7 @@
 \contentsline {section}{\numberline {4}Softwarequalit\IeC {\"a}t (Konstantin Rosenberg)}{14}
 \contentsline {subsection}{\numberline {4.1}Testabdeckung}{15}
 \contentsline {subsection}{\numberline {4.2}Software Metriken}{15}
-\contentsline {subsection}{\numberline {4.3}Automatisiertes Testen durch neural networks}{15}
+\contentsline {subsection}{\numberline {4.3}Automatisiertes Testen}{15}
 \contentsline {subsection}{\numberline {4.4}Evaluation von Softwarequalit\IeC {\"a}t}{16}
 \contentsline {subsection}{\numberline {4.5}Vorhersage von Softwarequalit\IeC {\"a}t}{16}
 \contentsline {section}{\numberline {5}Fazit und Ausblick (Alle)}{17}

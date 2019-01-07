@@ -13,7 +13,7 @@ Die Testabdeckung bezeichnet in der Softwaretechnik die Relation, der durch Test
 \subsection{Software Metriken}
 Softwaremetriken (SM) dienen in der Softwareentwicklung als Ansatzpunkt zur Bestimmung von Qualität. In einer SM werden Softwareeigenschaften Zahlen zugeordnet. Anhand der Zahlen lassen sich Rückschlüsse auf die Qualität der Software ziehen. Aspekte einer Softwaremetrik können z.B.~die Zahl der Verzweigungen im Quellcode oder die Komplexität der Vererbungs\-hierarchie sein~\cite[p.~3]{Committee1998}.
 
-\subsection{Automatisiertes Testen durch neural networks}
+\subsection{Automatisiertes Testen}
 Softwaretests haben die Aufgabe zu erkennen, ob Software den qualitativen Ansprüchen genügt und um Fehler zu finden und zu beheben~\cite{Wu2008}.
 L. Wu et al.~beschreibt in ~\cite{Wu2008} ein Verfahren, um mit BPNNs automatisiert funktionale Tests zu erstellen. 
 Bei diesem Vorgehen gibt es eine Reihe an Akteuren. Ein bestehendes System oder Programm, die Spezifikation der Funktionen, einen Testgenerator, eine Testdatenbank und das BPNN. Der Testgenerator erzeugt zufällige Input-Variablen, passend zu den festgelegten Systemspezifikationen. Die Variablen werden in der Testdatenbank abgespeichert. Das Softwaresystem erzeugt Erwartungswerte. Als Input für das BPNN dienen die erzeugten Testwerte. Das NN verarbeitet die Eingabewerte und generiert Ausgaben, die gegen den Erwartungswert geprüft werden.
@@ -24,8 +24,9 @@ Sobald die Ausgabewerte einen entsprechenden Toleranzwert erreichen, kann der In
 \subsection{Evaluation von Softwarequalität}
 Es bietet Vorteile den Stand von Software in Bezug auf Qualität zu kennen. Dadurch können Vorbereitungen getroffen und früh Mängel aufgedeckt und behoben werden~\cite{Pomorova2013}. Deshalb stellen O. Pomorova et al. in~\cite{Pomorova2013} eine Methode vor, um mit NNs die Softwarequalität in einer Projektphase zu evaluieren. Als Input für das NN dienen SMs. Eine SM enthält geschätzte, die andere die tatsächlichen Werte.
 Durch die Ausgabe des NNs wird die evaluierte Softwarequalität beschrieben oder eine Vorhersage über die zukünftige Komplexität des Projekts gemacht. 
-In ~\cite{Pomorova2013} wird ein Versuch beschrieben in dem vier verschiedene Softwareprojekte mit dieser Methode eingeschätzt wurden. Dabei erzielte das, auf NN basierende System, genaue Ergebnisse im Ver\-gleich zu manuellen Testverfahren.\\
-Es stellte sich jedoch auch heraus, dass eine unzulängliche Anzahl von Be\-wertungskriterien zu ungenauen Ergebnissen führen kann.
+In ~\cite{Pomorova2013} wird ein Versuch beschrieben in dem vier Softwareprojekte mit dieser Methode eingeschätzt wurden. Es handelt sich um Projekte mit ausführlich untersuchter Qualität und Komplexität. Diese bekannten werte wurden mit den eingeschätzten Werten verglichen, was die die Genauigkeit der Methode demonstriert. 
+\\
+Es stellte sich jedoch auch heraus, dass eine unzulängliche Anzahl von Bewertungskriterien zu ungenauen Ergebnissen führen kann.
 Wenn die Faktoren gegeben sind, bietet dieses Verfahren aber eine genaue Möglichkeit um SQ erkennbar zu machen und dadurch Rückschlüsse auf die Entwicklungsphase zu ziehen.
 
 \subsection{Vorhersage von Softwarequalität}
