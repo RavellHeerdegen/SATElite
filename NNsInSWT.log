@@ -1,18 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.9)  6 JAN 2019 15:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  7 JAN 2019 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **NNsInSWT.tex
 (./NNsInSWT.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+LaTeX2e <2018-04-01> patch level 5
 \@input{Header/header.aux}
 \openout2 = `Header/header.aux'.
 
-(./Header/header.tex
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+(./Header/header.tex (c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+(c:/texlive/2018/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -27,56 +25,56 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+(c:/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks15
 \verbatim@line=\toks16
 \verbatim@in@stream=\read1
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/nowidow/nowidow.sty
+(c:/texlive/2018/texmf-dist/tex/latex/nowidow/nowidow.sty
 Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
 Package: nowidow 
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -102,7 +100,7 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 
-(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen105
@@ -115,21 +113,21 @@ LaTeX Font Info:    ... okay on input line 4.
 \MPnumerator=\count92
 \makeMPintoPDFobject=\count93
 \everyMPtoPDFconversion=\toks18
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -143,7 +141,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -184,12 +182,12 @@ Overfull \hbox (1.12889pt too wide) in paragraph at lines 65--65
 
 
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Bilde
-r/Deckblatt/UniversityLogo.png (PNG copy)> <./Bilder/Deckblatt/CompanyLogo.jpg>
-])
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Bilder/Deckbl
+att/UniversityLogo.png (PNG copy)> <./Bilder/Deckblatt/CompanyLogo.jpg>])
 \openout2 = `Kapitel/Abstract/abstract.aux'.
 
- (./Kapitel/Abstract/abstract.tex) [1
+
+(./Kapitel/Abstract/abstract.tex) [1
 
 
 ] (./NNsInSWT.toc)
@@ -220,7 +218,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
  []
 
-[3] [4 <./Bilder/NN/NeuralNetwork.png>]
+[3] [4 <./Bilder/NN/NeuralNetwork.PNG>]
 (./Kapitel/PatternRecognition/patternRecognition.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--5
 
@@ -229,9 +227,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--5
 <Bilder/CNN/CNNArchitektur.png, id=26, 873.86475pt x 312.56775pt>
 File: Bilder/CNN/CNNArchitektur.png Graphic file (type png)
 <use Bilder/CNN/CNNArchitektur.png>
-Package pdftex.def Info: Bilder/CNN/CNNArchitektur.png  used on input line 11.
+Package pdftex.def Info: Bilder/CNN/CNNArchitektur.png  used on input line 12.
 (pdftex.def)             Requested size: 389.99533pt x 170.71567pt.
 )
+Underfull \hbox (badness 10000) in paragraph at lines 6--17
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 6--17
 
  []
@@ -313,31 +316,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
-) [13] (./Kapitel/SoftwareQuality/SoftwareQuality.tex
+)
+Overfull \hbox (8.97745pt too wide) in paragraph at lines 29--23
+\OT1/cmr/m/n/12 Kosten-sch^^?atzung. Das NN hat in 90% der getesteten Pro-jekte
+ einen niedrigeren
+ []
+
+[13] (./Kapitel/SoftwareQuality/SoftwareQuality.tex
 Overfull \hbox (0.18762pt too wide) in paragraph at lines 2--9
 \OT1/cmr/m/n/12 tionalen und nicht-funktionalen Merk-malen von Soft-ware-qualit
 ^^?at (SQ). Funk-
  []
 
-[14] [15]
-Underfull \hbox (badness 10000) in paragraph at lines 25--31
-
- []
-
-)
+[14] [15])
 Overfull \hbox (10.00845pt too wide) in paragraph at lines 33--25
 \OT1/cmr/m/n/12 Durch eine Vorher-sage der SQ k^^?onnen De-fizite fr^^?uhzeitig
  erkannt und verbessert
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--25
-
  []
 
 
@@ -349,6 +343,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--25
 Overfull \hbox (3.66953pt too wide) in paragraph at lines 6--27
 \OT1/cmr/m/n/12 passende NNs aus-gew^^?ahlt und ko-r-rekt kon-fig-uri-ert wer-d
 en, liefern NNs bessere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--27
+
  []
 
 [17] (./NNsInSWT.bbl
@@ -515,22 +519,21 @@ n-fer-
 ) [21] (./NNsInSWT.aux (./Kapitel/Deckblatt/deckblatt.aux)
 (./Kapitel/Abstract/abstract.aux)) ) 
 Here is how much of TeX's memory you used:
- 1617 strings out of 492649
- 24561 string characters out of 6129622
- 89251 words of memory out of 5000000
- 5440 multiletter control sequences out of 15000+600000
+ 1617 strings out of 492639
+ 24136 string characters out of 6133088
+ 89608 words of memory out of 5000000
+ 5446 multiletter control sequences out of 15000+600000
  8410 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,7n,25p,1873b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmtt12.pfb>
-Output written on NNsInSWT.pdf (22 pages, 182515 bytes).
+<c:/texlive/2018/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2018/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on NNsInSWT.pdf (22 pages, 182493 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
