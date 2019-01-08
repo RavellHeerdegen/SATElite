@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  7 JAN 2019 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.8)  8 JAN 2019 11:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,40 +306,23 @@ Overfull \hbox (2.31818pt too wide) in paragraph at lines 9--14
 
 [9]) (./Kapitel/costEffortEstimation/costEffortEstimationSections.tex [10]
 [11]
-Overfull \hbox (2.76816pt too wide) in paragraph at lines 10--14
+Overfull \hbox (2.76816pt too wide) in paragraph at lines 11--15
 \OT1/cmr/m/n/12 neben-bei gemacht und nicht als eigenst^^?andiger Punkt in der 
 Pla-nung beachtet,
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 15--17
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
 
-)
-Overfull \hbox (8.97745pt too wide) in paragraph at lines 29--23
-\OT1/cmr/m/n/12 Kosten-sch^^?atzung. Das NN hat in 90% der getesteten Pro-jekte
- einen niedrigeren
- []
-
-[13] (./Kapitel/SoftwareQuality/SoftwareQuality.tex
-Overfull \hbox (0.18762pt too wide) in paragraph at lines 2--9
+) [13] (./Kapitel/SoftwareQuality/SoftwareQuality.tex
+Overfull \hbox (0.18762pt too wide) in paragraph at lines 2--10
 \OT1/cmr/m/n/12 tionalen und nicht-funktionalen Merk-malen von Soft-ware-qualit
 ^^?at (SQ). Funk-
  []
 
-[14] [15])
-Overfull \hbox (10.00845pt too wide) in paragraph at lines 33--25
-\OT1/cmr/m/n/12 Durch eine Vorher-sage der SQ k^^?onnen De-fizite fr^^?uhzeitig
- erkannt und verbessert
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--25
-
- []
-
-[16] (./Kapitel/Resumee/conclusion.tex)
+[14] [15]) [16] (./Kapitel/Resumee/conclusion.tex)
 Overfull \hbox (3.66953pt too wide) in paragraph at lines 6--27
 \OT1/cmr/m/n/12 passende NNs aus-gew^^?ahlt und ko-r-rekt kon-fig-uri-ert wer-d
 en, liefern NNs bessere
@@ -533,7 +516,7 @@ mi12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texliv
 e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2018/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on NNsInSWT.pdf (22 pages, 182493 bytes).
+Output written on NNsInSWT.pdf (22 pages, 182558 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
